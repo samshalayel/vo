@@ -1,0 +1,5 @@
+الشرط المسبق غير متحقق:
+- js/materials.js (exports mats, neon) — غير موجود
+- js/main.js (renderer, HemisphereLight, DirectionalLight) — غير موجود
+
+تم إيقاف المهمة 04. قم بإكمال المهمة السابقة أولاً.
